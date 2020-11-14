@@ -10,7 +10,7 @@ street_address: In your imagination
 city: In your heart
 state: 
 zip_code: 
-country: In Your mind
+country: In your mind
 phone: I do currently own one.
 
 # homepage tiles
@@ -21,13 +21,13 @@ tiles-count: 6
 500px_url:
 facebook_url:
 github_url:
-gitlab_url: https://gitlab.com/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+gitlab_url: 
+googleplus_url: 
+instagram_url: https://instagram.com/cayennecarl
+linkedin_url: https://www.linkedin.com/in/carlvr
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: https://twitter.com/carlvanr
 
 # build settings
 markdown: kramdown
