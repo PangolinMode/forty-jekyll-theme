@@ -6,12 +6,12 @@ description: A portfolio showing the professional work<br /> of Carl van Reis
 baseurl:  # the subpath of your site, e.g. /blog
 url: portfolio.carlvanreis.com # the base hostname & protocol for your site
 author: Carl van Reis
-street_address: 1234 Somewhere Road
-city: Elsewhere
-state: CA
-zip_code: 00000
-country: United States of America
-phone: (000) 000-0000
+street_address: In your imagination
+city: In your heart
+state: 
+zip_code: 
+country: In Your mind
+phone: I do currently own one.
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
