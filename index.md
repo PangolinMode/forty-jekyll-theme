@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Carl'
+landing-title: 'Carl van Reis, the one and only'
 description: null
 image: null
 author: null
