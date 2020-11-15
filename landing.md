@@ -31,7 +31,7 @@ nav-menu: true
 					<h3>Pride Flag Emojis</h3>
 				</header>
 				<p>To normalize acceptance of more gender, sexual, and romantic identities, I created a petition on behalf of Fullscreen calling for the inclusion of pride flag emojis beyond just the rainbow flag. <br />
-Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3K signatures and counting.</p>
+Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3,000+ signatures and counting.</p>
 				<ul class="actions">
 					<li><a href="https://change.org/p/pride-flag-emojis" class="button">Read the petition</a></li>
 				</ul>
@@ -40,14 +40,17 @@ Results: JoyPixels released 15+ pride flag emojis after talking to us about the 
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/GuiltyPartyHistoryOfLying.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Guilty Party: History of Lying</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>
+				Besides managing the paid media content for this AT&T-branded web series, I also wrote in-character vlogs, blogs, and direct messages to fans as the characters. <br />
+				Results: Started 1,000+ member LGBTQIA+ friendly Discord community, made neurodivergent teens feel represented, created ads that fans got excited to catch.
+				</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
@@ -56,16 +59,18 @@ Results: JoyPixels released 15+ pride flag emojis after talking to us about the 
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/TheFunCut.png %}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Karma (HBO Max)</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Karma is a kid's competiton show with surprisingly deep themes for the genre. So while we gave a lot of energy to promoting all the drama and uplifting messaging before debut, we knew we also needed to remind people that life is FUN at the end of the day. Using sounds from the show, we created a release day mashup that highlighted the light-hearted side of the show.  <br />
+				Results: Host Michelle Khare shared this rhythmic mashup unprompted to her six-figure audience with irresistible adoration. People were clamoring for a full song!
+				</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://www.instagram.com/p/CBq23GmJC9o/" class="button">Watch the video</a></li>
 				</ul>
 			</div>
 		</div>
