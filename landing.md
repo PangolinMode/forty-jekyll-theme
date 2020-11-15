@@ -81,9 +81,15 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Some more highlights</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>
+		<ul>
+			<li>I wrote in-character IG stories exclusive to paid media to promote AT&amp;T-branded web series</li>
+			<li>I've mapped out multiple long-form event recap videos and helmed real-time event Instagram stories, including several on the AT&amp;T main handle for their LGBTQ+ initiative #TurnUpTheLove</li>
+			<li>I've created media optimized for major platforms like Facebook, Twitter, Instagram, and Snapchat</li>
+		</ul>
+		</p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
