@@ -15,8 +15,8 @@ nav-menu: true
 		</header>
 
 <!-- Content -->
-<h2 id="content">Video Content</h2>
-<p>I'm fortunate to know and be around skilled editors who embrace my ideas and work with me to infuse their own creativity into what we make.</p>
+<h2 id="content">Some of my favorite campaigns</h2>
+<p>I'm fortunate to know and be around skilled designers and editors who embrace my ideas and work with me to infuse their own creativity into what we make. Here are a few of my favorite campaigns I played a significant role in.</p>
  <!-- Theoretical Text Content
  <div class="row">
 	<div class="6u 12u$(small)">
@@ -46,17 +46,16 @@ nav-menu: true
 -->
 <hr class="major" />
 
-<!-- Elements -->
+<!-- Elements 
 <h2 id="elements">Elements</h2>
 <div class="row 200%">
 	<div class="6u 12u$(medium)">
-
+-->
 <!-- Text stuff -->
-<h3>Text</h3>
-<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
-This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
-This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
-Finally, this is a <a href="#">link</a>.</p>
+<h3>Pride Flag Emojis</h3>
+<p>While brainstorming for a new partnership campaign between AT&T and The Trevor Project, I wanted to figure out how to bring comfort and light to those isolated LGBTQ+ teens in homes that are hostile to their identity. How do we go about normalizing acceptance of more gender, sexual, and romantic identities? A simple question then occurred to me: Why is it that the rainbow pride flag is the only one in the emoji keyboard? After some research I learned that the process to approve indiviudal emojis takes a long time, but there was a way around this. Thus, the pride flag emoji petition was born, to help raise awareness of a faster solution. Within a few days, we heard from one of the emoji-making companies we hoped to reach, and they designed free-to-use flags for many of the often overlooked identities. The petition continues to rack up more signatures each day over a year later.  </p>
+
+<span class="image fit"><img src="{% link assets/images/PrideFlagEmojisPetition.png %}" alt="" /></span>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>
