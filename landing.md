@@ -24,14 +24,15 @@ Results: JoyPixels released 15+ pride flag emojis after talking to us about the 
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/PrideFlagEmojisPetition.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Pride Flag Emojis</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>To normalize acceptance of more gender, sexual, and romantic identities, I created a petition on behalf of Fullscreen calling for the inclusion of pride flag emojis beyond just the rainbow flag. <br />
+Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3K signatures and counting.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
