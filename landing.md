@@ -13,9 +13,10 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Pride Flag Emojis</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>To normalize acceptance of more gender, sexual, and romantic identities, I created a petition on behalf of Fullscreen calling for the inclusion of pride flag emojis beyond just the rainbow flag. <br />
+Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3K signatures and counting.</p>
 	</div>
 </section>
 
