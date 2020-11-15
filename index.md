@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Carl van Reis aka CvR'
+landing-title: 'Carl van Reis'
 description: null
 image: null
 author: null
