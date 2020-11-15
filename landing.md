@@ -33,7 +33,7 @@ nav-menu: true
 				<p>To normalize acceptance of more gender, sexual, and romantic identities, I created a petition on behalf of Fullscreen calling for the inclusion of pride flag emojis beyond just the rainbow flag. <br />
 Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3K signatures and counting.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://change.org/p/pride-flag-emojis" class="button">Read the petition</a></li>
 				</ul>
 			</div>
 		</div>
