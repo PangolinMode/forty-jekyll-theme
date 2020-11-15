@@ -40,7 +40,7 @@ Results: JoyPixels released 15+ pride flag emojis after talking to us about the 
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/GuiltyPartyHistoryOfLying.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/guiltypartyofficial.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
