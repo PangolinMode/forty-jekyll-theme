@@ -54,8 +54,9 @@ nav-menu: true
 <!-- Text stuff -->
 <h3>Pride Flag Emojis</h3>
 <p>While brainstorming for a new partnership campaign between AT&T and The Trevor Project, I wanted to figure out how to bring comfort and light to those isolated LGBTQ+ teens in homes that are hostile to their identity. How do we go about normalizing acceptance of more gender, sexual, and romantic identities? A simple question then occurred to me: Why is it that the rainbow pride flag is the only one in the emoji keyboard? After some research I learned that the process to approve indiviudal emojis takes a long time, but there was a way around this. Thus, the pride flag emoji petition was born, to help raise awareness of a faster solution. Within a few days, we heard from one of the emoji-making companies we hoped to reach, and they designed free-to-use flags for many of the often overlooked identities. The petition continues to rack up more signatures each day over a year later.  </p>
-
+<!--Taking away image for now
 <span class="image fit"><img src="{% link assets/images/PrideFlagEmojisPetition.png %}" alt="" /></span>
+-->
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>
