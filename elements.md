@@ -53,25 +53,10 @@ nav-menu: true
 -->
 <!-- Text stuff -->
 <h3>Pride Flag Emojis</h3>
-<p>While brainstorming for a new partnership campaign <br />
-between AT&T and The Trevor Project, I wanted to <br />
-figure out how to bring comfort and light to those <br />
-isolated LGBTQ+ teens in homes that are hostile <br />
-to their identity. How do we go about normalizing <br />
-acceptance of more gender, sexual, and romantic identities? <br />
-A simple question then occurred to me: Why is it that <br />
-the rainbow pride flag is the only one in the emoji keyboard? <br />
-After some research I learned that the process to approve <br />
-indiviudal emojis takes a long time, but there was a way <br />
-around this. Thus, the pride flag emoji petition was born, <br />
-to help raise awareness of a faster solution. Within a few days, <br />
-we heard from one of the emoji-making companies we hoped to reach, <br />
-and they designed free-to-use flags for many of the often <br />
-overlooked identities. The petition continues to rack up more <br />
-signatures each day over a year later.  </p>
-<!--Taking away image for now
-<span class="image fit"><img src="{% link assets/images/PrideFlagEmojisPetition.png %}" alt="" /></span>
--->
+<p>This is <b>bold</b> and this is <strong>strong</strong>. This is <i>italic</i> and this is <em>emphasized</em>.
+This is <sup>superscript</sup> text and this is <sub>subscript</sub> text.
+This is <u>underlined</u> and this is code: <code>for (;;) { ... }</code>.
+Finally, this is a <a href="#">link</a>.</p>
 <hr />
 <h2>Heading Level 2</h2>
 <h3>Heading Level 3</h3>
