@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Work
+title: Test
 nav-menu: true
 ---
 
@@ -11,12 +11,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>My Work</h1>
+			<h1>Test</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Some of my favorite campaigns</h2>
-<p>I'm fortunate to know and be around skilled designers and editors who embrace my ideas and work with me to infuse their own creativity into what we make. Here are a few of my favorite campaigns I played a significant role in.</p>
+<h2 id="content">Placeholder</h2>
+<p>A!</p>
  <!-- Theoretical Text Content
  <div class="row">
 	<div class="6u 12u$(small)">

@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: My work
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'I've made some stuff I think is pretty neat. Check it out below!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -13,10 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Pride Flag Emojis</h2>
+			<h2>Some of my favorite campaigns</h2>
 		</header>
-		<p>To normalize acceptance of more gender, sexual, and romantic identities, I created a petition on behalf of Fullscreen calling for the inclusion of pride flag emojis beyond just the rainbow flag. <br />
-Results: JoyPixels released 15+ pride flag emojis after talking to us about the petition and vowed to be vocal about their adoption with the Unicode Consortium. 3K signatures and counting.</p>
+		<p>I'm fortunate to know and be around skilled designers and editors who embrace my ideas and work with me to infuse their own creativity into what we make. Here are a few of my favorite campaigns I played a significant role in.</p>
 	</div>
 </section>
 
